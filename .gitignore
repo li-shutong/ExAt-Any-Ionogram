@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+output/
+web/uploads/
+web/results/
+_extract_figs.py
+_setup_repo.py
+paper/
+*.pdf
