@@ -4,7 +4,7 @@
 
 ExAt extracts F-layer first-hop echo traces from arbitrary ionograms with vision-language agents. No station-specific training: Iono-Describer, Iono-Tracer, and Iono-Critic run a physics-guided PDSA loop; MaskBuilder turns the best polyline into a binary mask.
 
-**Live demo:** [电离图回波提取](https://trailer-comparisons-consciousness-protein.trycloudflare.com/) — upload an ionogram, extract traces, and download the mask.
+**Live demo:** [Ionogram Trace Extraction](https://trailer-comparisons-consciousness-protein.trycloudflare.com/) — upload an ionogram, extract traces, and download the mask.
 
 ## Pipeline
 
